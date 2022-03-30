@@ -1,0 +1,148 @@
+/*Limpando formatações padrão*/
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+    font-size: 1em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background: #d8d8c5;
+    
+}
+
+/*Layout*/
+
+.area-cabecalho {
+    background: #666665;
+    padding: 15px;
+    text-align: center;
+}
+
+.area-logo {
+    padding: 10px;
+}
+
+/***********Formatação do menu**************/
+
+.area-menu {
+    padding: 10px;
+}
+
+a:link, a:visited {
+    color: #ffff;
+    text-decoration: none;
+    padding: 6px 12px;
+}
+
+a:hover {
+    background: #4e4e4e;
+    text-decoration: none;
+}
+
+
+/***********Formatação em Geral*************/
+
+.titulo {
+    color: #000000;
+    font-size: 2.5em;
+}
+
+.subtitulo {
+    color: aliceblue;
+}
+
+/***********area principal****************/
+
+.principal {
+    width: 1000px;
+    height: 1020px;
+    margin: 0 auto;
+    padding: 19px;
+}
+
+.area-postagens {
+    width: 660px;
+    float: left;
+
+}
+
+.postagem {
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.area-lateral {
+    width: 240px;
+    float: right;
+    color: #000000;
+    
+}
+
+.data-postagem {
+    font-size: 14px;
+    border-bottom: 1px solid #666665;
+    padding-bottom: 10px;
+    margin-bottom: 19px;
+    display: block;
+}
+
+.area-equipe {
+    width: 660px;
+    float: left;
+    padding: 0.2px;
+    margin: 0 auto;
+    
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.imagem-equipe-2 {
+   margin:29px;
+   
+  
+}
+
+.equipe-21 {
+    margin-left: 25px;
+    margin-top: 30px;
+    
+}
+
+.paragrafo-equipe {
+    margin: 30px ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/************area lateral*******/
+
+.conteudo-lateral {
+    background: white;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.rgb {
+    color: #666665;
+    background: #d8d8c5;
+    padding: 3px;
+    
+}
+
+
+
+
+/**************rodape***********/
+
+.rodape {
+
+}
+/*
+.rodape-conteudo {
+    font-size: 9px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background: #666665;
+    text-align: center;
+    padding: 10px;
+}
+*/
