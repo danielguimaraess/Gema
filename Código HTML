@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GemaBlog</title>
+
+    <link rel="stylesheet" type="text/css" href="style.css"> <!--Ancora para css-->
+
+    <link rel="shortcut icon" href="imagens/favicon.ico" type="image/x-icon"> <!--Favicon do site-->
+</head>
+<body> <!--começo do código do corpo-->
+    
+    <div class="area-cabecalho"> <!--Primeiro módulo-->
+
+        <div class="area-logo"> <!--inicio da area logo-->
+            <h1 class="titulo">Bar Da Gema <span class="subtitulo">Blog</span> </h1>
+        </div> <!--final da area logo-->
+
+        <div class="area-menu"> <!-- links externos e internos -->
+            <a href="index.html">Home</a>
+            <a href="cardapio">Cardápio</a>
+            <a href="https://www.instagram.com/bardagema/">Instagram</a>
+            <a href="twitter">Twitter</a>
+            <a href="contato">Contato</a>
+        </div> <!--Fim dos links no cabeçalho-->
+
+    </div> <!--Fim do primeiro módulo-->
+    
+    
+    <div class="principal"> <!--Inicio do segundo módulo-->
+
+        <div class="area-postagens">
+            
+            <!--abertura postagem-->
+            <div class="postagem">
+
+                <h2>Melhor do Rio!</h2>
+                
+                <br>
+
+                <span class="data-postagem">postado 20 março 2022</span>
+                
+                <br>
+                
+                <img class="imagem-equipe" src="imagens/coxinhas.png" alt="coxinhas.png" width="400px">
+                
+                <br> <br> <br> <br>
+                
+                <p>Pensaram que não ia ter coxinha essa semana? Vem que tem!</p>
+
+                <br> <br>
+
+            </div>
+            <!--fechamento postagem-->
+            <div class="area-equipe">
+
+                <h2 class="equipe-21">Equipe do Bar </h2>
+                
+                
+                
+                <img class="imagem-equipe-2" src="imagens/equipe.png" alt="equipe.png" width="400px">
+                
+                
+                <p class="paragrafo-equipe">Mais um ano de concurso concluído com sucesso. Sem dúvidas, um dos mais importantes devido a tudo que ainda estamos passando. A equipe Da Gema agradece demais a todos que puderam nos ajudar de alguma forma. Seja comparecendo ao bar e provando nosso petisco ou pedindo por delivery. Vocês fizeram com que tudo desse certo.
+                <br> <br>
+                Vida longa aos butecos! ❤</p>
+
+                <br>
+
+            </div>
+        
+        
+        </div>
+        
+        
+        
+        <div class="area-lateral">
+            
+            <div class="conteudo-lateral">
+                         
+                    <h2 class="rgb">Funcionamento:</h2>
+                    <br>
+                    <p>Terça à Sexta
+                    <br> <br>
+                    17:00 às 23:00
+                    </p>
+                    <p>
+                    <br>
+                    Sábado e Domingo
+                    <br> <br>
+                    11:00 às 23:00
+                    </p>
+                    <br>
+
+                <div class="texto-lateral">
+
+                    <h2 class="rgb">Bar da Gema</h2>
+                    <br>
+                    <p>Botequim raíz comandado por <br><br>@musadaspanelas e <br><br> @leandrobardagema</p> 
+                
+
+                </div>
+            
+
+            </div>
+        
+        
+        </div>
+    
+    </div> <!--Fim do segundo módulo-->
+    
+    <!--<div class="rodape">
+        <div class="rodape-conteudo">
+            <a href="https://www.facebook.com/bardagema/"> <img src="imagens/favicon.ico" alt=""> </a>
+            <a href="https://www.instagram.com/bardagema/"> <img src="imagens/1png.png" alt="" width="50px" >  </a>
+        </div>
+    </div>-->
+</body> <!--Fim do código corpo-->
+</html>
